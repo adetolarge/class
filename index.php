@@ -30,7 +30,6 @@ foreach($products as $key => $value) {
     <input type="text" name="UserName" placeholder="username">
     <button name="form1">Submit</button>
 </form>
-
 <form action="" method="post" >
     <button name="Delete">Click to Delete</button>
 </form>

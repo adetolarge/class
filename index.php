@@ -21,7 +21,6 @@ foreach($products as $key => $value) {
             <?php echo $value["desc"];?>
         </div>
     </div>
-    
     <?php
 }
 // var_dump(GetProducts());
